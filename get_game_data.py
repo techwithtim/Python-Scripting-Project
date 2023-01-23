@@ -4,7 +4,7 @@ import shutil
 from subprocess import PIPE, run
 import sys
 
-#LOL from lol
+#LOL from lol 2
 
 GAME_DIR_PATTERN = "game"
 GAME_CODE_EXTENSION = ".go"
